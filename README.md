@@ -49,31 +49,30 @@
  
    <li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(25).pdf" style="text-decoration:none;">
 Can gradient clipping mitigate label noise?</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(26).pdf" style="text-decoration:none;">A Structured Self-attentive Sentence Embedding</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(27).pdf" style="text-decoration:none;">Sequence-to-Sequence Models Can Directly Translate Foreign Speech</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(26).pdf" style="text-decoration:none;">Webly Supervised Learning of Convolutional Networks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(27).pdf" style="text-decoration:none;">Label Error Correction and Generation Through Label Relationships</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(28).pdf" style="text-decoration:none;">Convolutional Sequence to Sequence Learning</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(28).pdf" style="text-decoration:none;">A Comprehensive Introduction to Label Noise</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(29).pdf" style="text-decoration:none;">A Survey of Cross-lingual Word Embedding Models</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(29).pdf" style="text-decoration:none;">Training deep neural-networks based on unreliable labels</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(30).pdf" style="text-decoration:none;">Dual Supervised Learning</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(30).pdf" style="text-decoration:none;">On Symmetric Losses for Learning from Corrupted Labels</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(31).pdf" style="text-decoration:none;">DiSAN: Directional Self-Attention Network for RNN/CNN-Free Language Understanding</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(32).pdf" style="text-decoration:none;">Statistical Machine Translation</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(31).pdf" style="text-decoration:none;">On Symmetric Losses for Learning from Corrupted Labels</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(32).pdf" style="text-decoration:none;">Training a neural network based on unreliable human annotation of medical images</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(33).pdf" style="text-decoration:none;">Attentive Convolution:
-Equipping CNNs with RNN-style Attention Mechanisms</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(33).pdf" style="text-decoration:none;">A Nonlinear, Noise-aware, Quasi-clustering Approach to Learning Deep CNNs from Noisy Labels</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(34).pdf" style="text-decoration:none;">Non-Autoregressive Neural Machine Translation</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(34).pdf" style="text-decoration:none;">Learning to Learn from Noisy Labeled Data</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(35).pdf" style="text-decoration:none;">Learning to Remember Translation History with a Continuous Cache</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(35).pdf" style="text-decoration:none;">Visual Recognition by Learning from Web Data: A Weakly Supervised Domain Generalization Approach</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(36).pdf" style="text-decoration:none;">Improved English to Russian Translation by Neural Suffix Prediction</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(36).pdf" style="text-decoration:none;">Learning to Label Aerial Images from Noisy Data</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(37).pdf" style="text-decoration:none;">Asynchronous Bidirectional Decoding for Neural Machine Translation</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(38).pdf" style="text-decoration:none;">Reinforced Self-Attention Network: a Hybrid of Hard and Soft Attention for Sequence Modeling</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(39).pdf" style="text-decoration:none;">Zero-Resource Neural Machine Translation with Multi-Agent Communication Game</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(40).pdf" style="text-decoration:none;">Tied Multitask Learning for Neural Speech Translation</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(41).pdf" style="text-decoration:none;">Analyzing Uncertainty in Neural Machine Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(37).pdf" style="text-decoration:none;">Loss Factorization, Weakly Supervised Learning and Label Noise Robustness</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(38).pdf" style="text-decoration:none;">Semi-Supervised Learning Literature Survey</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(39).pdf" style="text-decoration:none;">TensorFlow codes</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(40).pdf" style="text-decoration:none;">Learning from Massive Noisy Labeled Data for Image Classification</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(41).pdf" style="text-decoration:none;">Learning with Biased Complementary Labels</a></li>
 </ul>
