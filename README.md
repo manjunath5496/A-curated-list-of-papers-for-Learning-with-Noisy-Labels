@@ -82,7 +82,7 @@ Can gradient clipping mitigate label noise?</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(45).pdf" style="text-decoration:none;">Iterative Learning with Open-set Noisy Labels</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(46).pdf" style="text-decoration:none;">Dimensionality-Driven Learning with Noisy Labels</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(47).pdf" style="text-decoration:none;">Learning with Noisy and Trusted Labels for Fine-Grained Plant Recognition</a></li>
-
+<li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(48).pdf" style="text-decoration:none;">Learning From Noisy Large-Scale Datasets With Minimal Supervision</a></li>
 
 
 
