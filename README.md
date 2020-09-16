@@ -36,18 +36,19 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(18).pdf" style="text-decoration:none;">Co-teaching: Robust Training of Deep Neural Networks with Extremely Noisy Labels</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(19).pdf" style="text-decoration:none;">Zero-Resource Translation with Multi-Lingual Neural Machine Translation</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(19).pdf" style="text-decoration:none;">Generalized Cross Entropy Loss for Training Deep Neural Networks with Noisy Labels</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(20).pdf" style="text-decoration:none;"> An Actor-Critic Algorithm for Sequence Prediction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(20).pdf" style="text-decoration:none;"> Are Anchor Points Really Indispensable in Label-Noise Learning?</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(21).pdf" style="text-decoration:none;">Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(22).pdf" style="text-decoration:none;">Neural Machine Translation in Linear Time</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(21).pdf" style="text-decoration:none;">Safeguarded Dynamic Label Regression for Noisy Supervision</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(22).pdf" style="text-decoration:none;">Safeguarded Dynamic Label Regression for Noisy Supervision</a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(23).pdf" style="text-decoration:none;">Neural Machine Translation with Reconstruction</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(24).pdf" style="text-decoration:none;">Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Tra</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(24).pdf" style="text-decoration:none;">Self-Paced Robust Learning for Leveraging Clean Labels in Noisy Data</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(25).pdf" style="text-decoration:none;">Neural Machine Translation and Sequence-to-sequence Models: A Tutorial</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(25).pdf" style="text-decoration:none;">
+Can gradient clipping mitigate label noise?</a></li>                              
  <li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(26).pdf" style="text-decoration:none;">A Structured Self-attentive Sentence Embedding</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(27).pdf" style="text-decoration:none;">Sequence-to-Sequence Models Can Directly Translate Foreign Speech</a></li>
    
