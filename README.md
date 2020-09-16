@@ -41,8 +41,8 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(20).pdf" style="text-decoration:none;"> Are Anchor Points Really Indispensable in Label-Noise Learning?</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(21).pdf" style="text-decoration:none;">Safeguarded Dynamic Label Regression for Noisy Supervision</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(22).pdf" style="text-decoration:none;">Safeguarded Dynamic Label Regression for Noisy Supervision</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(23).pdf" style="text-decoration:none;">Neural Machine Translation with Reconstruction</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(22).pdf" style="text-decoration:none;">Cost-Sensitive Learning with Noisy Labels</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(23).pdf" style="text-decoration:none;">Deep Self-Learning From Noisy Labels</a></li> 
  
 
    <li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(24).pdf" style="text-decoration:none;">Self-Paced Robust Learning for Leveraging Clean Labels in Noisy Data</a></li>
