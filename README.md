@@ -75,4 +75,18 @@ Can gradient clipping mitigate label noise?</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(39).pdf" style="text-decoration:none;">TensorFlow codes</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(40).pdf" style="text-decoration:none;">Learning from Massive Noisy Labeled Data for Image Classification</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(41).pdf" style="text-decoration:none;">Learning with Biased Complementary Labels</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(42).pdf" style="text-decoration:none;">DivideMix: Learning with Noisy Labels as Semi-supervised Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(43).pdf" style="text-decoration:none;">Impact of Noisy Labels in Learning Techniques: A Survey</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(44).pdf" style="text-decoration:none;">NLNL: Negative Learning for Noisy Labels</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(45).pdf" style="text-decoration:none;">Iterative Learning with Open-set Noisy Labels</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(46).pdf" style="text-decoration:none;">Dimensionality-Driven Learning with Noisy Labels</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(47).pdf" style="text-decoration:none;">Learning with Noisy and Trusted Labels for Fine-Grained Plant Recognition</a></li>
+
+
+
+
+
+
+
 </ul>
