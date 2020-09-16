@@ -57,7 +57,7 @@ Can gradient clipping mitigate label noise?</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(29).pdf" style="text-decoration:none;">Training deep neural-networks based on unreliable labels</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(30).pdf" style="text-decoration:none;">On Symmetric Losses for Learning from Corrupted Labels</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(30).pdf" style="text-decoration:none;"> Probabilistic End-to-end Noise Correction for Learning with Noisy Labels</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(31).pdf" style="text-decoration:none;">On Symmetric Losses for Learning from Corrupted Labels</a></li> 
     <li><a target="_blank" href="https://github.com/manjunath5496/A-curated-list-of-papers-for-Learning-with-Noisy-Labels/blob/master/nol(32).pdf" style="text-decoration:none;">Training a neural network based on unreliable human annotation of medical images</a></li> 
